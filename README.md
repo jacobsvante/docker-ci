@@ -1,4 +1,3 @@
-# docker-bash
+# docker-ci
 
-Docker-in-Docker image with bash. That's it.
-
+Docker-in-docker image with bash and git.
